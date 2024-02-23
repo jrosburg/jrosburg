@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrosburg. 
+- 👋 Hi, I’m Jake. 
 - 👀 I’m interested in sports, video games, and data analytics. 
 - 🌱 I’m currently learning R, Tableau, and PowerBi
 - 😄 Pronouns: he/him
